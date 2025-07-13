@@ -16,7 +16,10 @@ Projeto de Análise de dados da Dio.me.
 
 ## ✨ Destaques
 -- Realizei os teste de escrita.
+<br>
 -- Percebi os teste de sentimentos retornados.
+<br>
 -- Usei áudios para reconhecimento.
+<br>
 -- Foi minha primeira imersão nos produtos da Azure muito interessante para insigts de validações de produtos.
 ------------------------------------------------------------------------------------------------------------------
